@@ -1,6 +1,5 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb3fuflH47LAQHbtI0m79cif3ysL_v2PQLLQ&s"/>
-<img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb3fuflH47LAQHbtI0m79cif3ysL_v2PQLLQ](https://i.makeagif.com/media/3-15-2021/xhf0FM.gif)&s"/>
-# 👋 Hi, I'm Chris.
+## 👋 Hi, I'm Chris.
 
 💻 **Aspiring Cybersecurity & Network Security Enthusiast**  
 🔒 Passionate about **Cybersecurity, Blockchain, and Cloud Technologies**
@@ -19,3 +18,6 @@ My goal is to **build secure, scalable, and innovative digital solutions** by co
 
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christianjodiwisnuwardana/) 
+
+
+<img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb3fuflH47LAQHbtI0m79cif3ysL_v2PQLLQ](https://i.makeagif.com/media/3-15-2021/xhf0FM.gif)&s"/>
