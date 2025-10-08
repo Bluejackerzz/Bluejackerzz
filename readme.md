@@ -17,23 +17,6 @@ My goal is to **build secure, scalable, and innovative digital solutions** by co
 
 ---
 
-### 🧰 Languages & Tools
-# 👋 Hi, I'm [Your Name]
-
-💻 **Cybersecurity & Network Security Enthusiast**  
-🔒 Exploring **Cybersecurity**, **Blockchain**, and **Cloud Technologies**
-
----
-
-### 🚀 About Me
-I focus on **network security and digital infrastructure**.  
-My interests lie at the intersection of **Cybersecurity**, **Blockchain**, and **Cloud Computing** — exploring both the **technical** and **financial** aspects of the modern digital ecosystem.
-
-I have experience in **IT infrastructure**, **server administration**, and **secure networking**, with growing knowledge in **cryptocurrency**, **Web3**, and **technical analysis**.  
-
-My goal is to **build secure, scalable, and innovative digital solutions** by combining cloud infrastructure, cybersecurity practices, and decentralized systems.
-
----
 
 ### 🧰 Languages & Tools
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
@@ -52,21 +35,6 @@ My goal is to **build secure, scalable, and innovative digital solutions** by co
 - 🧠 Cybersecurity & Ethical Hacking  
 - 🖧 Network Security & Infrastructure  
 - ☁️ Cloud & Linux Systems  
-- 🪙 Blockchain & Cryptocurrency  
-- 📈 Technical Analysis & Digital Finance  
-
----
-
-### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-
----
-
-### 🌐 Interests
-- 🧠 Cybersecurity & Ethical Hacking  
-- 🖧 Network Security & Infrastructure  
-- ☁️ Cloud Computing & Linux Systems  
 - 🪙 Blockchain & Cryptocurrency  
 - 📈 Technical Analysis & Digital Finance  
 
