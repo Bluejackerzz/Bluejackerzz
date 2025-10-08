@@ -8,10 +8,10 @@
 ---
 
 ### 🚀 About Me
-I’m a Computer Science student focused on **network security and digital infrastructure**.  
-My interests lie at the intersection of **Cybersecurity**, **Blockchain**, and **Cloud Computing** exploring both the **technical** and **financial** aspects of the modern digital ecosystem.
+I’m a Computer Science student focused on **Network Security and Digital Infrastructure**.  
+My interests lie at the intersection of **Cybersecurity**, **Blockchain**, **DevSecOps** and **Cloud Computing** exploring both the **technical** and **financial** aspects of the modern digital ecosystem.
 
-I have experience in **IT infrastructure**, **server administration**, and **secure networking**, with growing knowledge in **cryptocurrency**, **Web3**, and **technical analysis**.  
+I have experience in **IT Infrastructure**, **Server Administration**, and **Secure Networking**, with growing knowledge in **Cryptocurrency**, **Web3**, and **Technical Analysis**.  
 
 My goal is to **build secure, scalable, and innovative digital solutions** by combining expertise in cloud technologies, cybersecurity practices, and decentralized systems.
 
