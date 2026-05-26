@@ -4,15 +4,14 @@ Currently Stayin' and learning about **Cybersecurity, Blockchain, and Cloud Tech
 
 ---
 
-### 🚀 About Me
-I’m a Computer Science student focused on **Network Security and Digital Infrastructure**.  
+an ordinary CompSci Students specializing on **Network Security**.  
 
 Having passions in **Cybersecurity**, **Blockchain**, and **Cloud Computing** exploring both the **technical** and **financial** aspects of those Ecosystems.
 
 Experienced in **IT Infrastructure**, **Server Administration**, **Firewall Configuration**  with growing knowledge in **Cryptocurrency**, **Web3**, and **Technical Analysis**.  
 
 
-### 📫 Connect With Me
+##Connect 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christianjodiwisnuwardana/) 
 
 
