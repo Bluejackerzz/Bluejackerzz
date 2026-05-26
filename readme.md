@@ -11,7 +11,7 @@ Having passions in **Cybersecurity**, **Blockchain**, and **Cloud Computing** ex
 Experienced in **IT Infrastructure**, **Server Administration**, **Firewall Configuration**  with growing knowledge in **Cryptocurrency**, **Web3**, and **Technical Analysis**.  
 
 
-##Connect 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christianjodiwisnuwardana/) 
 
 
