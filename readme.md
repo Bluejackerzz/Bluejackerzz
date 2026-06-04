@@ -1,8 +1,5 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb3fuflH47LAQHbtI0m79cif3ysL_v2PQLLQ&s"/>
 
-Currently Stayin' and learning about **Cybersecurity, Blockchain, and Cloud Technologies**
-
----
 
 an ordinary CompSci Students specializing on **Network Security**.  
 
