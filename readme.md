@@ -5,7 +5,7 @@ an ordinary CompSci Students specializing on **Network Security**.
 
 Having passions in **Cybersecurity**, **Blockchain**, and **Cloud Computing** exploring both the **technical** and **financial** aspects of those Ecosystems.
 
-Experienced in **IT Infrastructure**, **Server Administration**, **Firewall Configuration**  with growing knowledge in **Cryptocurrency**, **Web3**, and **Technical Analysis**.  
+Experienced in **IT Infrastructure**, **Server Administration**, **Firewall Configuration**.  
 
 
 
